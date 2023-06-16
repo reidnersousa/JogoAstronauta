@@ -8,6 +8,7 @@ function preload() {
   this.load.spritesheet('personagem', 'assets/astronauta_laranja.png', { frameWidth: 32.8, frameHeight: 47.5 });
 
 
+  
   this.load.image('chao', 'assets/chao.png');
   this.load.image('bandeira', 'assets/bandeira.png');
   this.load.image('fundo', 'assets/fase1.png');
